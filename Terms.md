@@ -1,89 +1,234 @@
 # Terms of Service for Alice
 
-**Effective Date: 01/01/2026**
+**Effective Date:** 24/02/2026
+**Last Updated:** 24/02/2026
 
-## 1. Introduction and Acceptance of Terms
+> **Legally Binding Notice:** These Terms of Service include binding legal obligations, restrictions on use, moderation and enforcement provisions, limitations of liability, and dispute provisions. If you do not agree, do not use Alice.
 
-Welcome to Alice ("Alice", "we", "our", or "us"). These Terms of Service ("Terms") constitute a legally binding agreement between you ("User", "you", or "your") and Alice regarding your access to and use of the Alice services ("Services") provided via the Discord platform. By accessing, registering for, or using Alice, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any other applicable policies. If you do not agree to these Terms in their entirety, you must not access or use Alice.
+## 1) Parties, Acceptance, and Scope of Contract
 
-## 2. Definitions
+These Terms of Service ("**Terms**") are a legally binding agreement between you ("**User**," "**you**," or "**your**") and Alice ("**Alice**," "**we**," "**our**," or "**us**") governing access to and use of Alice’s services on Discord (collectively, the "**Services**").
 
-- **Alice**: The Discord-based service operated by us.
-- **User**: Any individual or entity accessing or using Alice.
-- **Services**: All features, content, and functionalities provided by Alice.
-- **Premium Features**: Additional functionalities accessible through verified cryptocurrency payments.
-- **Data**: Information collected as described in Section 6.
+By inviting, installing, accessing, or using Alice in any server, channel, or direct interaction, you:
+1. Confirm you have read and understood these Terms.
+2. Agree to be legally bound by these Terms and our Privacy Policy.
+3. Agree to comply with all applicable laws, regulations, and platform rules.
 
-## 3. Eligibility and Registration
+If you do not agree, you must immediately discontinue use.
 
-You must be at least 18 years of age to use Alice. By using Alice, you represent and warrant that you meet this age requirement. Access to certain features requires a valid Discord account, subject to [Discord’s Terms of Service](https://discord.com/terms).
+## 2) Relationship to Other Policies
 
-## 4. Scope of Services
+Your use of Alice is also subject to:
+- Our Privacy Policy.
+- Discord Terms of Service.
+- Discord Community Guidelines.
+- Discord Developer-related policies and API rules, where applicable.
+- Server-specific community rules and moderation standards.
 
-Alice provides interactive services on Discord, including but not limited to chat-based features, premium content, and community engagement tools. We reserve the right to modify, suspend, or discontinue any aspect of the Services at any time, with or without notice.
+Where multiple rules apply, the stricter requirement controls.
 
-## 5. Prohibited Conduct and Content
+## 3) Definitions
 
-You agree not to use Alice to generate, share, or disseminate any content that includes, but is not limited to:
-- **Child Sexual Abuse Material (CSAM)**: Strictly prohibited and illegal.
-- **Graphic or Violent Content**: Includes depictions of extreme violence, gore, or disturbing material.
-- **Sensitive or Offensive Content**: Includes discriminatory, inflammatory, or otherwise objectionable material.
+For interpretation and enforcement:
+- **"Alice"** means the bot, software, services, and operational tooling we provide.
+- **"Services"** means all commands, AI features, moderation-aware responses, premium features, support channels, and safety systems.
+- **"User Content"** means prompts, messages, attachments, commands, links, and related metadata submitted to or through the Services.
+- **"Output"** means content generated, returned, transformed, summarized, or otherwise produced by the Services.
+- **"Inference Provider"** means third-party AI infrastructure providers, including **Groq**.
+- **"Premium Features"** means paid/entitlement-gated features.
+- **"Applicable Law"** means any binding law, regulation, court order, sanctions rule, or governmental requirement relevant to your or our use/operation.
+- **"Prohibited Conduct"** means any disallowed behavior identified in these Terms, platform policy, or Applicable Law.
 
-### Rationale for Restrictions
-- **Legal Compliance**: Compliance with all applicable laws and regulations.
-- **Community Safety**: Protection of users from harmful or offensive content.
-- **Platform Policies**: Adherence to Discord’s policies.
+## 4) Eligibility, Legal Capacity, and Authority
 
-## 6. Data Collection and Use
+You represent and warrant that:
+- You are at least **18 years old**.
+- You have legal capacity to enter into this contract.
+- You are not barred from use under Applicable Law.
+- Your Discord account is valid and used lawfully.
 
-Alice collects and processes the following data solely for the operation, maintenance, and improvement of the Services:
-- **Guild IDs**: Discord server identifiers.
-- **Channel IDs**: Discord channel identifiers.
-- **User IDs**: For premium verification, Terms of Service and Privacy Policy acceptance, and badge assignment.
+If acting for a company or organization, you confirm authority to bind that entity.
 
-No other personal data is collected or stored. Data is not sold or shared with third parties except as required by law or to comply with legal obligations. For further details, refer to our Privacy Policy.
+## 5) Service Nature and No Guarantee of Continuity
 
-## 7. Premium Features and Payments
+Alice is a Discord bot that may provide AI assistance, moderation-aware behavior, and utility/premium features. Service behavior may vary by channel permissions, server settings, user roles, technical constraints, model behavior, and provider availability.
 
-Premium features are available through Buy Me a Coffee, a third-party platform. Payments are processed entirely by Buy Me a Coffee. Alice does not collect or store payment or billing information.
-Discord User IDs are used only to verify premium status. All purchases are subject to Buy Me a Coffee’s own terms and policies.
+We may, at any time and without liability:
+- Add, remove, or modify features.
+- Change rate limits, eligibility, pricing, or entitlements.
+- Suspend or discontinue the Services in whole or part.
 
-## 8. Account Security and User Responsibility
+## 6) Discord Platform Dependency
 
-You are solely responsible for maintaining your Discord account credentials and for all activities that happen under your account. You agree to notify us immediately of any unauthorized use or security breach. Alice is not liable for any loss or damage arising from your failure to comply with this section.
+Alice depends on Discord infrastructure and APIs. We are not responsible for outages, changes, deprecations, permission restrictions, or policy changes imposed by Discord that affect functionality.
 
-## 9. Termination, Suspension, and Blacklisting
+Violation of Discord policy while using Alice is a violation of these Terms.
 
-We reserve the right, at our sole discretion, to terminate, suspend, or blacklist your access to Alice at any time, with or without notice, for any reason, including but not limited to violations of these Terms or engagement in prohibited activities. Upon termination, your right to use Alice will immediately cease.
+## 7) Third-Party Services and Providers
 
-## 10. Data Retention and Deletion
+To provide AI functionality, we may use third-party processors and inference infrastructure, including **Groq**. You acknowledge that User Content and limited operational metadata may be processed by such providers for request execution, safety, reliability, and abuse prevention.
 
-Data collected as described in Section 6 is retained only as long as necessary to fulfill the purposes outlined in these Terms and our Privacy Policy, or as required by law. Users may request data deletion by contacting us as described in Section 15.
+Premium billing may be handled by third-party payment processors (e.g., Buy Me a Coffee). Those providers apply their own terms and privacy practices.
 
-## 11. Modifications to Terms
+## 8) Safety, Refusals, and Flagged-Message Workflows
 
-Alice reserves the right to modify, update, or revise these Terms at any time. Changes will be effective immediately upon posting. Continued use of Alice after such changes constitutes acceptance of the revised Terms.
+Alice uses automated and policy-driven safeguards. As a condition of use, you acknowledge and accept:
+- Requests may be blocked, refused, redacted, delayed, throttled, or rate-limited.
+- Some interactions may trigger warning messages or policy refusals.
+- Interactions may be flagged for safety/compliance review.
+- Repeated bypass attempts may trigger escalated enforcement.
 
-## 12. Limitation of Liability
+A safety flag is an operational signal and not necessarily a legal conclusion; however, it may be used for moderation and risk decisions.
 
-To the maximum extent permitted by law, Alice and its affiliates, officers, employees, agents, and licensors shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, arising out of or related to your use of Alice.
+## 9) Permitted Use
 
-## 13. Indemnification
+You may use Alice only for lawful, respectful, policy-compliant purposes, including:
+- Productivity, informational assistance, and drafting support.
+- Creative and educational uses that do not violate these Terms.
+- Community moderation assistance within Discord rules.
 
-You agree to indemnify, defend, and hold harmless Alice and its affiliates from and against any and all claims, liabilities, damages, losses, and expenses arising out of or in any way connected with your access to or use of Alice, your violation of these Terms, or your infringement of any rights of another.
+You are solely responsible for how you use Output.
 
-## 14. Dispute Resolution and Governing Law
+## 10) Prohibited Conduct (Comprehensive)
 
-These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which Alice operates, without regard to its conflict of law principles. Any disputes arising from or relating to these Terms or your use of Alice shall be resolved through binding arbitration or in the courts of competent jurisdiction, as determined by Alice.
+You must not use Alice for Prohibited Conduct, including any attempt to induce, solicit, or automate such conduct.
 
-## 15. Contact Information and Support
+### 10.1 Illegal and Evasive Conduct
+- Violating Applicable Law.
+- Evasion of legal obligations, sanctions, law enforcement, or court orders.
 
-For any questions, concerns, or requests regarding these Terms or your data, you may:
-- Send a direct message (DM) to our support representative at [https://discord.com/users/711332165538807900](https://discord.com/users/711332165538807900)
-- Open a support ticket in our official Discord server: [https://discord.gg/7n7fNHH6CJ](https://discord.gg/7n7fNHH6CJ)
+### 10.2 Child Safety Violations
+- Child sexual abuse material (CSAM).
+- Sexual content involving minors.
+- Grooming, exploitation, trafficking, or sexualization of minors.
 
-We are committed to addressing your inquiries in a timely and professional manner.
+### 10.3 Violence and Extremism
+- Threats, violent incitement, or instructions for physical harm.
+- Terrorism support, extremist propaganda, attack planning.
+
+### 10.4 Hate, Racism, and Harassment
+- Racist, hateful, discriminatory, or dehumanizing content targeting protected groups.
+- Harassment, intimidation, bullying, or abuse campaigns.
+
+### 10.5 Sexual Abuse and Non-Consensual Content
+- Non-consensual sexual content or exploitation.
+- Sexual extortion, coercive sexual abuse content.
+
+### 10.6 Fraud and Deception
+- Phishing, scams, impersonation, social engineering, identity theft.
+- Forgery, deceptive manipulation, or fake verification abuse.
+
+### 10.7 Cybersecurity Abuse
+- Malware or credential theft.
+- Unauthorized access, exploit abuse, account compromise activity.
+- Circumvention of safety, moderation, or access restrictions.
+
+### 10.8 Privacy and Data Abuse
+- Doxxing, unlawful data disclosure, unauthorized surveillance.
+- Unauthorized collection, sale, or misuse of personal data.
+
+### 10.9 Policy Circumvention
+- Repeated prompt manipulation to bypass refusals/safeguards.
+- Attempts to circumvent platform moderation or enforcement actions.
+
+### 10.10 Other Harmful Conduct
+- Any dangerous, exploitative, obscene, or materially harmful conduct.
+
+## 11) Server Administrator and Integrator Responsibilities
+
+If you add Alice to a server, you are responsible for:
+- Configuring permissions appropriately.
+- Ensuring users are informed of server rules and applicable policies.
+- Using moderation and access controls responsibly.
+- Ensuring your server-level usage of Alice complies with law and Discord policy.
+
+## 12) User Content Rights and License
+
+You retain ownership rights in User Content to the extent permitted by law. You grant us a limited, non-exclusive, worldwide, royalty-free license to host, process, transmit, transform, and store User Content as reasonably necessary to provide, secure, improve, and enforce the Services.
+
+You represent that you have lawful rights to submit User Content and that it does not infringe third-party rights.
+
+## 13) Output Limitations and High-Risk Use Restriction
+
+Output may be inaccurate, incomplete, or unsuitable. You must independently verify Output before use.
+
+Alice is not legal, medical, financial, mental health, emergency, or professional compliance advice. Do not rely on Output for high-risk decisions where errors could cause significant harm.
+
+## 14) Premium Features, Billing, and Refund Context
+
+Premium Features may require payment and entitlement verification. We may use Discord identifiers for entitlement checks.
+
+Payment, subscription handling, charge disputes, and processor-specific refunds are governed primarily by the payment processor’s policies, subject to mandatory law.
+
+## 15) Enforcement Rights and Remedial Actions
+
+We may investigate suspected violations and take any action we deem necessary, including:
+- Warning, refusal, or temporary restrictions.
+- Content filtering, suppression, or removal where feasible.
+- User/server suspension or permanent blacklist.
+- Reporting to Discord, vendors, or authorities as legally required or reasonably necessary.
+
+Enforcement can occur with or without prior notice.
+
+## 16) Intellectual Property and Reserved Rights
+
+Except for User Content and third-party materials, all rights in the Services (software, structure, branding, documentation, policy framework, and derivative improvements) are owned by us or our licensors.
+
+You may not reverse engineer, decompile, copy, redistribute, sublicense, or exploit the Services except as allowed by law or written permission.
+
+## 17) Feedback License
+
+If you provide suggestions, feedback, or ideas, you grant us a perpetual, irrevocable, worldwide, royalty-free license to use, adapt, and implement such feedback without compensation.
+
+## 18) Service Availability and Warranty Disclaimer
+
+To the fullest extent permitted by law, Services are provided **"AS IS"** and **"AS AVAILABLE"** without warranties of any kind (express, implied, statutory, or otherwise), including fitness for a particular purpose, merchantability, non-infringement, accuracy, availability, and reliability.
+
+We do not guarantee uninterrupted operation, complete safety detection, or error-free output.
+
+## 19) Limitation of Liability
+
+To the fullest extent permitted by Applicable Law, Alice and its operators, affiliates, licensors, contractors, processors, and vendors are not liable for indirect, incidental, special, punitive, exemplary, or consequential damages, including loss of profits, data, goodwill, or business opportunity arising from or related to your use of Services.
+
+Where liability cannot be excluded, liability is limited to the minimum extent permitted by law.
+
+## 20) Indemnification
+
+You agree to defend, indemnify, and hold harmless Alice and related parties from any claims, liabilities, losses, damages, penalties, and expenses (including reasonable legal fees) arising from or related to:
+- Your use or misuse of Services.
+- Your User Content.
+- Your violation of these Terms, platform policy, law, or third-party rights.
+
+## 21) Export Controls and Sanctions
+
+You agree not to use Services in violation of export control laws, sanctions programs, or trade restrictions. You represent that you are not prohibited from receiving such services under Applicable Law.
+
+## 22) Force Majeure
+
+We are not liable for failure or delay resulting from events beyond reasonable control, including infrastructure outages, cyber incidents, governmental action, natural disasters, labor disputes, telecommunications failures, or provider disruptions.
+
+## 23) Modifications to Services and Terms
+
+We may revise these Terms at any time. Updated Terms become effective when posted unless stated otherwise. Continued use after updates constitutes acceptance of revised Terms.
+
+## 24) Governing Law and Dispute Venue
+
+These Terms are governed by the laws of the jurisdiction in which Alice operates, without regard to conflict-of-law principles. Disputes shall be resolved in a court or forum of competent jurisdiction unless mandatory law requires another process.
+
+## 25) Severability, No Waiver, Entire Agreement, Assignment
+
+- If any provision is invalid or unenforceable, the remainder remains in effect.
+- Failure to enforce any provision is not a waiver.
+- These Terms and the Privacy Policy form the entire agreement regarding Services.
+- You may not assign rights or obligations without our prior written consent.
+- We may assign these Terms as part of merger, acquisition, restructuring, or asset transfer.
+
+## 26) Contact and Legal Notices
+
+For support, legal notices, or policy requests:
+- DM: [https://discord.com/users/711332165538807900](https://discord.com/users/711332165538807900)
+- Support Server: [https://discord.gg/7n7fNHH6CJ](https://discord.gg/7n7fNHH6CJ)
 
 ---
 
-By using Alice, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. Your compliance is essential to maintaining a safe, lawful, and respectful community for all users.
+By using Alice, you acknowledge and agree that the Services may issue warning/refusal responses and may use flagged-message workflows to enforce policy, protect users, and comply with law.
