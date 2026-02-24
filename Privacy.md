@@ -1,83 +1,152 @@
 # Privacy Policy for Alice
 
-**Effective Date: 01/01/2026**
+**Effective Date:** 24/02/2026
+**Last Updated:** 24/02/2026
 
-## 1. Introduction
+> This Privacy Policy explains how Alice handles data in connection with a Discord bot service, including safety and compliance workflows.
 
-Alice ("Alice", "we", "our", or "us") is committed to safeguarding your privacy and ensuring the security of your information. This Privacy Policy ("Policy") describes how we collect, use, store, and protect your data when you access or use Alice on the Discord platform. By using Alice, you consent to the practices described herein.
+## 1) Introduction
 
-## 2. Definitions
+This Privacy Policy ("**Policy**") describes how Alice ("**Alice**," "**we**," "**our**," or "**us**") processes data when providing Services on Discord.
 
-- **Alice**: The Discord-based service operated by us.
-- **User**: Any individual or entity accessing or using Alice.
-- **Data**: Information collected as described in Section 4.
-- **Premium Features**: Additional functionalities accessible through verified cryptocurrency payments.
+By using the Services, you acknowledge this Policy.
 
-## 3. Scope
+## 2) Scope and Policy Relationship
 
-This Policy applies to all users of Alice and governs the collection, use, and disclosure of data through the Alice Services on Discord.
+This Policy applies to data processed through Alice features, operational tooling, moderation/safety systems, support channels, and premium verification workflows.
 
-## 4. Information We Collect
+Use of the Services is also governed by our Terms of Service.
 
-Alice collects only the following information, strictly necessary for the operation and enhancement of the Services:
-- **Guild IDs**: Discord server identifiers where Alice is active.
-- **Channel IDs**: Discord channel identifiers for service operation.
-- **User IDs**: Used for premium feature verification, Terms of Service and Privacy Policy acceptance, and badge assignment.
+## 3) Definitions
 
-No other personal data (such as email addresses, real names, or payment information) is collected or stored by Alice.
+- **"Services"**: The Discord bot and related operational systems.
+- **"User Content"**: Prompts, commands, messages, files, links, and related metadata submitted through Services.
+- **"Processing"**: Any operation on data (collection, use, storage, disclosure, deletion, etc.).
+- **"Inference Provider"**: Third-party model infrastructure, including **Groq**.
 
-## 5. Use of Information
+## 4) Data Categories We Process
 
-The information collected is used exclusively to:
-- Provide, maintain, and improve Alice’s services
-- Verify premium access (via cryptocurrency payments only)
-- Track acceptance of Terms of Service and Privacy Policy
-- Assign and manage badges
-- Ensure compliance with Discord’s and platform policies
+We process data reasonably necessary for operation and compliance, including:
 
-## 6. Premium Access and Payments
+### 4.1 Platform and Account Identifiers
+- Guild IDs
+- Channel IDs
+- User IDs
 
-Premium features are available through Buy Me a Coffee, a third-party payment platform. Alice uses Discord User IDs solely to verify premium status.
-Alice does not collect, process, or store any payment information, billing details, or financial data. All payments are handled directly by Buy Me a Coffee and are subject to their terms and privacy policy.
+### 4.2 Operational and Security Metadata
+- Event timestamps
+- Feature invocation records
+- Error and diagnostic indicators
+- Safety/moderation status markers
+- Limited anti-abuse telemetry
 
-## 7. Data Sharing and Disclosure
+### 4.3 Policy and Entitlement Data
+- Terms/Policy acknowledgment status
+- Premium entitlement verification state
+- Enforcement/blacklist status where necessary
 
-Alice does **not** share, sell, rent, or disclose your data to third parties, except as required by law, regulation, or legal process, or to comply with legal obligations.
+### 4.4 Support and Communications Data
+- Information you provide through approved support channels
 
-## 8. Data Retention and Deletion
+We do not intentionally collect unnecessary profile data, and we do not directly store full payment card data through Alice.
 
-Data is retained only for as long as necessary to fulfill the purposes outlined in this Policy or as required by applicable law. Users may request the removal of their data from Alice by contacting us as described in Section 13. We will comply with such requests in accordance with applicable legal requirements.
+## 5) Processing Purposes
 
-## 9. Data Security
+Data is processed for limited, legitimate purposes:
+- Service delivery and feature execution.
+- Reliability, debugging, and incident response.
+- Safety filtering, abuse prevention, and flagged-message review workflows.
+- Premium entitlement checks.
+- Policy and legal compliance.
+- Response to user support requests.
 
-We implement reasonable administrative, technical, and physical safeguards designed to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+## 6) Legal Bases (Where Required)
 
-## 10. User Rights
+Depending on jurisdiction, processing may be based on:
+- Performance of a service relationship.
+- Legitimate interests (safety, reliability, fraud prevention).
+- Compliance with legal obligations.
+- Consent where required.
 
-You have the right to:
-- Request access to the data we hold about you
-- Request correction or deletion of your data
-- Withdraw your consent to data processing (where applicable)
-- Lodge a complaint with a supervisory authority if you believe your rights have been violated
+## 7) Third-Party Processing
 
-To exercise these rights, please contact us as described in Section 13.
+To provide AI output, Alice may use third-party inference infrastructure, including **Groq**. Necessary User Content and operational metadata may be processed by those providers for response generation, uptime, and abuse-prevention operations.
 
-## 11. Changes to This Privacy Policy
+Premium payment processing may use third-party processors (e.g., Buy Me a Coffee), which operate under their own terms and privacy policies.
 
-Alice reserves the right to update or modify this Policy at any time. Changes will be effective immediately upon posting. Your continued use of Alice after such changes constitutes your acceptance of the revised Policy.
+## 8) Data Sharing and Disclosure
 
-## 12. Children’s Privacy
+We do **not** sell personal data.
 
-Alice is not intended for use by individuals under the age of 18. We do not knowingly collect or solicit personal information from anyone under 18. If you believe that a minor has provided us with personal information, please contact us immediately.
+We may disclose limited data where reasonably necessary to:
+- Operate Services via trusted processors/vendors.
+- Enforce safety rules and Terms.
+- Detect, prevent, or investigate fraud and abuse.
+- Comply with lawful requests, legal process, or regulatory obligations.
+- Protect rights, safety, and property of users, us, or third parties.
 
-## 13. Contact Information and Privacy Inquiries
+## 9) Flagging, Moderation, and Enforcement Signals
 
-For any questions, concerns, or requests regarding this Privacy Policy or your data, you may:
-- Send a direct message (DM) to our support representative at [https://discord.com/users/711332165538807900](https://discord.com/users/711332165538807900)
-- Open a support ticket in our official Discord server: [https://discord.gg/7n7fNHH6CJ](https://discord.gg/7n7fNHH6CJ)
+Some interactions may be automatically flagged by safety controls. Associated metadata may be used to:
+- Trigger warnings/refusals.
+- Detect repeated abuse patterns.
+- Apply temporary/permanent restrictions.
+- Support legal or platform compliance actions.
 
-We are committed to responding to your privacy inquiries in a timely and professional manner.
+A flagged interaction is an operational indicator and not automatically a legal determination.
+
+## 10) Retention
+
+We retain data only as long as reasonably necessary for:
+- Operational continuity and reliability.
+- Security and abuse mitigation.
+- Legal compliance and recordkeeping.
+- Dispute handling and enforcement documentation.
+
+Retention periods vary by data type and legal/operational necessity.
+
+## 11) Deletion Requests
+
+Subject to legal obligations, security requirements, and abuse-prevention needs, users may request deletion via contact channels below.
+
+Where full deletion is not possible, we may retain only the minimum necessary data for legally permissible purposes.
+
+## 12) Security
+
+We implement reasonable administrative and technical safeguards to reduce unauthorized access, disclosure, or loss. No system can guarantee absolute security.
+
+Users remain responsible for their own Discord account security and credential protection.
+
+## 13) International Processing
+
+Infrastructure and providers may operate in multiple jurisdictions. Data may be processed outside your local jurisdiction, subject to applicable legal controls and provider safeguards.
+
+## 14) User Rights (Jurisdiction Dependent)
+
+Where applicable, users may have rights to request:
+- Access to processed data.
+- Correction of inaccuracies.
+- Deletion of eligible data.
+- Restriction or objection to specific processing.
+- Withdrawal of consent where processing relies on consent.
+- Complaint submission to a supervisory authority.
+
+We may request identity/scope verification before fulfilling rights requests.
+
+## 15) Children’s Privacy
+
+Alice is intended for users 18+ and is not directed to children.
+
+## 16) Policy Updates
+
+We may update this Policy periodically. Updates are effective upon posting unless otherwise stated.
+
+## 17) Contact
+
+For privacy requests and questions:
+- DM: [https://discord.com/users/711332165538807900](https://discord.com/users/711332165538807900)
+- Support Server: [https://discord.gg/7n7fNHH6CJ](https://discord.gg/7n7fNHH6CJ)
 
 ---
 
-By using Alice, you acknowledge that you have read, understood, and agree to this Privacy Policy. Your trust is important to us, and we are dedicated to protecting your privacy and data security.
+By using Alice, you acknowledge this Policy and understand that operational safety/flagging workflows and third-party inference processing (including Groq) may be required for lawful and safe service operation.
